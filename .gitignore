@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# PyCharm / IDE settings
+.idea/
+.vscode/
+
+# Python bytecode & cache
+pycache/
+*.py[cod]
+
+# Environment variables & secrets (Telegram Bot Token)
+.env
+*.env
+
+# Local database & storage
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+logs/
+*.log
